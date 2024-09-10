@@ -1,0 +1,1 @@
+const urlBase = "http://172.31.1.47:5500/api"
